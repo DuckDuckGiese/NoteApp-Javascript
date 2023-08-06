@@ -18,3 +18,18 @@ body {
     width: 400px;
     height: 400px;
 }
+
+.notes .tools {
+    background-color: #9ec862;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5rem;
+}
+
+.notes .tools button {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    font-size: 1rem;
+    margin-left:.05rem;
+}
